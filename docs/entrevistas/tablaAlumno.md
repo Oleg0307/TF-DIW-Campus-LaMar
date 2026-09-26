@@ -1,4 +1,4 @@
-# Plantilla de Entrevista Reutilizable — Macro-rol Alumno (Estudiante registrado)
+# Plantilla de Entrevista Reutilizable — Macro-rol 2: Alumno (Alumno / Estudiante registrado)
 
 | N.º / Sección | Campo / Pregunta oficial | Datos de la Persona (UX) Subrol 2.1: Alumno dependiente y Respuestas | Datos de la Persona (UX) Subrol 2.2: Alumno proactivo y Respuestas | Datos de la Persona (UX) Subrol 2.3: Alumno con accesibilidad y Respuestas |
 | :---: | :--- | :--- | :--- | :--- |
